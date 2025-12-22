@@ -36,19 +36,21 @@
 
   </head>
   <body>
-    <header>   
+
+    <div class="wrapper">
+             <nav style="display:flex;justify-content: flex-end; gap: 20px; margin-top:10px; margin-bottom: -20px;">   
+     
         <a href="{{ site.baseurl }}/">
-            <button class="back-button" aria-label="Back to homepage">
-                homepage
-            </button>
+            
+                <h2>homepage</h2>
+         
         </a>
          <a href="pub.html">
-            <button class="back-button" aria-label="Back to homepage">
-        publications  
-            </button>
+           
+            <h2>publications</h2>
+         
         </a>
-    </header>
-    <div class="wrapper">
+        </nav>
       <header>
         
         {% if site.avatar %}
