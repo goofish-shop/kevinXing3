@@ -17,7 +17,6 @@ Outside of academia, I’m a dead hard fan of <a href="https://www.juventus.com/
 
 
 
-{% include_relative _includes/project.md %}
 ## Conference
 - [Nov. 2024.] <a href="https://acrabstracts.org/abstract/the-causal-effect-of-sex-hormone-related-drugs-on-the-risk-of-osteoarthritis-a-mendelian-randomization-study/" target="_blank" style="color:#002D72">*The Causal Effect of Sex Hormone-related Drugs on the Risk of Osteoarthritis – A Mendelian Randomization Study*</a> has been presented on **<span style="color:#002D72">ACR 2024</span>**.
 
