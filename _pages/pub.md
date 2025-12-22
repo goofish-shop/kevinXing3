@@ -1,1 +1,0 @@
-    {% include_relative _includes/project.md %}
